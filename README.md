@@ -4,17 +4,21 @@ Project: Simple JavaScript currency converter using API.
 
 ## 🚀 Features
 
+- Real-time currency conversion
 - Conversion of popular currencies (USD, EUR, RUB, etc.)
-- Automatic update on input change
-- Reverse currency swap
-- Support for 1:1 rate display
+- Clean minimalist interface
+- Responsive design (works on mobile)
+- No backend required (pure frontend JS)
+- Keyboard-friendly navigation
+- Quick currency swap functionality
 
 ## 🛠️ Technologies
 
-- HTML5 / CSS3 / JavaScript
-- Fetch API
-- Responsive design
-- API integration
+- Vanilla JavaScript (ES6+)
+- Fetch API for data retrieval
+- CSS3 Flexbox/Grid for layout
+- Mobile-first responsive design
+- Web Accessibility (WAI-ARIA) compliant
 
 ## 🌍 How It Works
 
