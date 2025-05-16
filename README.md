@@ -1,5 +1,7 @@
 # 💱 Currency Converter
 
+[![Open in Browser](https://img.shields.io/badge/Open-Live_Site-blue?logo=google-chrome)](https://khusainovilas.github.io/exchange-rate-app)
+
 Project: Simple JavaScript currency converter using API.
 
 ## 🚀 Features
